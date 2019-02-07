@@ -1,3 +1,4 @@
+#if 0
 #include <Windows.h>
 #include <iostream>
 #include <GL\glew.h>
@@ -134,3 +135,4 @@ int main(int argc, char **argv)
 
     return 0;
 }
+#endif

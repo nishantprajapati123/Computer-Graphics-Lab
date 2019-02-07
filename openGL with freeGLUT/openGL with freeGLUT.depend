@@ -305,3 +305,55 @@
 	<GL\freeglut.h>
 	<cmath>
 
+1548953104 source:d:\computer-graphics-lab\opengl with freeglut\bresenham.cpp
+	<Windows.h>
+	<iostream>
+	<GL\glew.h>
+	<GL\freeglut.h>
+	<cmath>
+
+1548356001 source:d:\computer-graphics-lab\opengl with freeglut\dda.cpp
+	<Windows.h>
+	<iostream>
+	<GL\glew.h>
+	<GL\freeglut.h>
+	<cmath>
+
+1548351276 source:d:\computer-graphics-lab\opengl with freeglut\flag.cpp
+	<stdio.h>
+	<GL/glut.h>
+	<math.h>
+
+1548346463 source:d:\computer-graphics-lab\opengl with freeglut\main.cpp
+	<Windows.h>
+	<iostream>
+	<GL\glew.h>
+	<GL\freeglut.h>
+	<cmath>
+
+1548960770 source:d:\computer-graphics-lab\opengl with freeglut\midpoint circle algo.cpp
+	<Windows.h>
+	<iostream>
+	<GL\glew.h>
+	<GL\freeglut.h>
+	<cmath>
+
+1548958353 source:d:\computer-graphics-lab\opengl with freeglut\plane.cpp
+	<Windows.h>
+	<iostream>
+	<GL\glut.h>
+
+1548346362 source:d:\computer-graphics-lab\opengl with freeglut\rectangle.cpp
+	<Windows.h>
+	<iostream>
+	<GL\glew.h>
+	<GL\freeglut.h>
+	<cmath>
+
+1549566718 source:d:\computer-graphics-lab\opengl with freeglut\coordinate.cpp
+	<Windows.h>
+	<iostream>
+	<GL\glew.h>
+	<GL\freeglut.h>
+	<cmath>
+
